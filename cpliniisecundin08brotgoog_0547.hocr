@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cpliniisecundin08brotgoog_0547.png"; bbox 0 0 3042 4880; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 670 2219 919 2232">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 670 2219 919 2232">
+     <span class='ocr_line' id='line_1_1' title="bbox 670 2219 919 2232; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 670 2219 919 2232; x_wconf 52' lang='lat' dir='ltr'>nnn-*-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 533 2280 1071 2430">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 533 2280 1071 2430">
+     <span class='ocr_line' id='line_1_2' title="bbox 533 2280 1071 2344; baseline -0.004 -12"><span class='ocrx_word' id='word_1_2' title='bbox 533 2281 581 2332; x_wconf 69' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_3' title='bbox 607 2282 785 2334; x_wconf 82' lang='lat' dir='ltr'>EDITIONE</span> <span class='ocrx_word' id='word_1_4' title='bbox 812 2280 1071 2344; x_wconf 81' lang='lat' dir='ltr'>GRONOVIANA,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 630 2379 963 2430; baseline 0.006 -2"><span class='ocrx_word' id='word_1_5' title='bbox 630 2379 718 2428; x_wconf 72' lang='lat' dir='ltr'>Lucu.</span> <span class='ocrx_word' id='word_1_6' title='bbox 735 2379 805 2428; x_wconf 71' lang='lat' dir='ltr'>Bu.</span> <span class='ocrx_word' id='word_1_7' title='bbox 818 2383 890 2429; x_wconf 77' lang='lat'><strong>16⁶8.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 905 2382 963 2430; x_wconf 73' lang='grc' dir='ltr'>θνα.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 671 2491 915 2508">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 671 2491 915 2508">
+     <span class='ocr_line' id='line_1_4' title="bbox 671 2491 915 2508; baseline -0.004 1"><span class='ocrx_word' id='word_1_9' title='bbox 671 2491 915 2508; x_wconf 42' lang='grc' dir='ltr'>Ψ-σ--νη-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1526 4880">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1526 4880">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1526 4880; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1526 4880; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
